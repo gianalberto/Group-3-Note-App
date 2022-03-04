@@ -1,2 +1,2 @@
-# Group-3-Note-App
+# Group-3-Note-App-Final Project
 App Dev
